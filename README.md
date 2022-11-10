@@ -31,4 +31,4 @@ SkinCancer
 
 
 
-Project Deployed Link: https://shreyasdeodhare-heart-disease-final-2tplrq.streamlitapp.com/
+Project Deployed Link: 
