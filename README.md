@@ -31,4 +31,4 @@ SkinCancer
 
 
 
-Project Deployed Link: 
+Project Deployed Link: https://shreyasdeodhare-heart-disease-final-ro7egx.streamlit.app/
